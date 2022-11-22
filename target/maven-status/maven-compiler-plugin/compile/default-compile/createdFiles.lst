@@ -1,0 +1,9 @@
+client\Client.class
+courier\CourierClient.class
+courier\Courier.class
+orders\OrdersClient.class
+courier\CourierGenerator.class
+orders\Order.class
+orders\OrdersGenerator.class
+courier\Credentials.class
+courier\LoginGenerator.class
