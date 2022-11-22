@@ -1,0 +1,5 @@
+orders\OrdersListTest.class
+courier\CourierLoginParameterizedTest.class
+courier\CourierDefaultTest.class
+orders\OrdersParameterizedTest.class
+courier\CourierParameterizedTest.class
